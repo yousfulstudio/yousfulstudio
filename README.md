@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://placehold.co/180x180/111827/FFFFFF?text=YF" width="110" />
+<img src="./yousful_up_logo.png" width="110" alt="YousFul Studio Logo"/>
 
 # YousFul Studio
 
