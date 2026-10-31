@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./yousful_up_logo.png" width="110" alt="YousFul Studio Logo"/>
+<img src="./yousful_up_logo.png" width="110" alt="YousFul Studio Logo" style="border-radius: 18px;"/>
 
 # YousFul Studio
 
