@@ -1,142 +1,120 @@
 
 <div align="center">
 
-<img src="./yousful_up_logo.png" width="110" alt="YousFul Studio Logo" style="border-radius: 18 px;"/>
+<img src="https://raw.githubusercontent.com/YOUR-ORG/.github/main/profile/yousful_up_logo.png?v=2" width="130" alt="YousFul Studio"/>
 
 # YousFul Studio
 
 ### Ideas into Products. Technology into Impact.
 
-**We build digital products, mobile applications and intelligent AI-powered experiences.**
+Building useful digital products through technology, creativity and innovation.
 
 <p>
-  <img src="https://img.shields.io/badge/Product%20Studio-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Innovation-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile%20Apps-16A34A?style=for-the-badge"/>
-</p>
-
-<p>
-  <a href="https://yousfulstudio.com">Website</a> •
-  <a href="https://github.com/YOUR-ORG">GitHub</a>
+  <a href="https://www.yousfulstudio.com">
+    <img src="https://img.shields.io/badge/Website-Visit%20Us-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=8812434691571820472">
+    <img src="https://img.shields.io/badge/Google%20Play-Our%20Apps-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Who We Are
+## ✦ About YousFul Studio
 
-YousFul Studio is an independent technology and product studio focused on building useful digital products.
+YousFul Studio is an independent technology and product studio focused on designing, developing and launching digital products.
 
-We bring together product thinking, engineering, creativity and artificial intelligence to turn ideas into real-world applications.
+We build applications that solve real-world problems across different domains, combining thoughtful product design, modern engineering and emerging technologies.
 
-Our focus areas:
-
-- 📱 Mobile Application Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI & Intelligent Systems
-- ⚡ SaaS & Digital Products
-- 🎮 Interactive Experiences & Games
+**Our mission:** Turn meaningful ideas into useful, accessible and scalable digital experiences.
 
 ---
 
-## ✨ Our Products
+## 🚀 Our Products
 
-We believe in building products that solve real problems and create meaningful experiences.
+We build products across education, productivity, AI and social experiences.
 
-<table>
-<tr>
-<td width="50%">
+| Product | What We Build |
+|---|---|
+| 🎓 **GateX** | GATE CS & DA preparation, mock tests and exam analytics |
+| 💜 **NextMeet** | Social connection and experiences for long-distance relationships |
+| 🧠 **LaunchIQ** | AI-powered startup idea validation |
+| 📝 **SnapNotes** | AI-powered document scanning and summarization |
+| 🧹 **SnapSweep** | AI-powered duplicate file cleaner |
+| 🍊 **Asli** | Food label scanner and nutrition intelligence for Indian consumers |
 
-### 🧪 Asli
-
-**Food Label Scanner**
-
-Helping Indian consumers understand packaged food through nutrition analysis, ingredient insights and smarter food choices.
-
-</td>
-<td width="50%">
-
-### 🎓 GateX
-
-**GATE Preparation Platform**
-
-A learning platform designed to help engineering students prepare for GATE through mock tests, analytics and exam-focused tools.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💜 NextMeet
-
-**Social Connection Platform**
-
-Bringing people closer through meaningful connections and interactive experiences.
-
-</td>
-<td width="50%">
-
-### 🛠️ YousFul Studio
-
-**Creator Tools & AI Platform**
-
-AI-powered tools designed to help digital creators create, optimize and grow their content.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=8812434691571820472">
+    <img src="https://img.shields.io/badge/Explore%20Our%20Apps-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧰 Technologies We Work With
+## ⚙️ Technology & Engineering
+
+We work with modern technologies to build reliable and scalable applications.
 
 ### Mobile Development
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
 </p>
 
-### AI & Machine Learning
+### Artificial Intelligence
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 </p>
 
-### Backend & Infrastructure
+### Backend & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,fastapi,flask,docker"/>
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,flask,docker"/>
 </p>
 
-### Development Tools
+### Tools & Design
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode"/>
 </p>
 
 ---
 
-## 💡 What We Believe In
+## 💡 What Drives Us
 
-- **Build with Purpose** — Every product should solve a meaningful problem.
-- **Keep It Simple** — Great technology should feel effortless.
-- **Think Long-Term** — Build scalable and maintainable products.
-- **Innovate Continuously** — Explore new ideas and emerging technologies.
-- **User First** — Real people, real problems, practical solutions.
+- **Innovation** — Exploring new technologies and opportunities.
+- **Simplicity** — Creating intuitive and accessible experiences.
+- **Purpose** — Solving real problems through useful products.
+- **Quality** — Building reliable and maintainable software.
+- **Growth** — Continuously learning, experimenting and improving.
 
 ---
 
-## 🌐 Connect With Us
+## 🌱 Building What's Next
 
-<p align="center">
-<a href="https://yousfulstudio.com">
-<img src="https://img.shields.io/badge/Website-YousFul%20Studio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-</p>
+Our journey doesn't stop at one product.
+
+We are continuously exploring new ideas, developing applications and expanding our product ecosystem.
+
+From mobile applications to AI-powered solutions, we aim to build technology that makes everyday life better.
+
+---
+
+## 🤝 Connect With YousFul Studio
 
 <div align="center">
 
-### Building What's Next. 🚀
+<a href="https://www.yousfulstudio.com">
+<img src="https://img.shields.io/badge/Website-YousFul%20Studio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-*Made with curiosity, creativity and code.*
+<a href="https://play.google.com/store/apps/dev?id=8812434691571820472">
+<img src="https://img.shields.io/badge/Google%20Play-Download%20Our%20Apps-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
 
-© YousFul Studio
+### Ideas into Products. 🚀
+
+<sub>Building the future, one product at a time.</sub>
+
+**© YousFul Studio**
 
 </div>
