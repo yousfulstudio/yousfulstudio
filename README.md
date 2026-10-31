@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-ORG/.github/main/profile/yousful_up_logo.png?v=2" width="130" alt="YousFul Studio"/>
+<img src="https://raw.githubusercontent.com/yousfulstudio/.github/main/profile/yousful_up_logo.png?v=2" width="130" alt="YousFul Studio"/>
 
 # YousFul Studio
 
